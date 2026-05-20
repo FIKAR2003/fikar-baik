@@ -1,0 +1,6 @@
+{
+  "name": "KMS Digital",
+  "description": "Aplikasi Edukasi Gizi dan Buku KMS Digital Interaktif untuk Ibu dan Anak",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
